@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pets-app/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/pets-app/static/js/main.e98700c6.chunk.js",
-    "main.js.map": "/pets-app/static/js/main.e98700c6.chunk.js.map",
-    "runtime-main.js": "/pets-app/static/js/runtime-main.2857c87e.js",
-    "runtime-main.js.map": "/pets-app/static/js/runtime-main.2857c87e.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/pets-app/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.e20077de.chunk.js": "/pets-app/static/js/2.e20077de.chunk.js",
-    "static/js/2.e20077de.chunk.js.map": "/pets-app/static/js/2.e20077de.chunk.js.map",
-    "index.html": "/pets-app/index.html",
-    "precache-manifest.3fad5ea2b55b9f6e5f876fe3d6a4b821.js": "/pets-app/precache-manifest.3fad5ea2b55b9f6e5f876fe3d6a4b821.js",
-    "service-worker.js": "/pets-app/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/pets-app/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.5e4e9510.chunk.css.map": "/pets-app/static/css/main.5e4e9510.chunk.css.map"
+    "main.css": "/petsapp/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/petsapp/static/js/main.c65c7338.chunk.js",
+    "main.js.map": "/petsapp/static/js/main.c65c7338.chunk.js.map",
+    "runtime-main.js": "/petsapp/static/js/runtime-main.b7c11111.js",
+    "runtime-main.js.map": "/petsapp/static/js/runtime-main.b7c11111.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/petsapp/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e20077de.chunk.js": "/petsapp/static/js/2.e20077de.chunk.js",
+    "static/js/2.e20077de.chunk.js.map": "/petsapp/static/js/2.e20077de.chunk.js.map",
+    "index.html": "/petsapp/index.html",
+    "precache-manifest.7e4503c4f959c648498b202c2bca5f88.js": "/petsapp/precache-manifest.7e4503c4f959c648498b202c2bca5f88.js",
+    "service-worker.js": "/petsapp/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/petsapp/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/petsapp/static/css/main.5e4e9510.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2857c87e.js",
+    "static/js/runtime-main.b7c11111.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.e20077de.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.e98700c6.chunk.js"
+    "static/js/main.c65c7338.chunk.js"
   ]
 }
